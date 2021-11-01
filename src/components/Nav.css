@@ -1,0 +1,29 @@
+nav {
+  padding: 7px 15px;
+  height: 64px;
+  background-color: #f1f1d8;
+}
+
+ul {
+  display: flex;
+  gap: 1em;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  line-height: 64px;
+}
+
+li:first-child {
+  margin-left: 1em;
+}
+
+a {
+  color: #000;
+}
+
+a:hover {
+  color: #92e0c9;
+}
